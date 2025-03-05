@@ -1,0 +1,7 @@
+git is a centralized repository management system
+
+git init is used to initialize the current directory
+
+git clone is used take the latest code into you directory
+
+git status to identify the latest changes
